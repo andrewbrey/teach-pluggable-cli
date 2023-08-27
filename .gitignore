@@ -1,10 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/node,deno,macos,linux,windows,visualstudiocode,dropbox
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,deno,macos,linux,windows,visualstudiocode,dropbox
 
-### Deno ###
-/.idea/
-/.vscode/
-
 /node_modules
 
 .env
@@ -40,7 +36,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
